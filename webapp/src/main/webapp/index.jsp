@@ -1,3 +1,1 @@
-<h1> Hello, Divine, you are welcome to Valaxy Technologies !!! </h1>
-<h> Happy learning Divine King <h>
-<h>Precious </h>
+<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
